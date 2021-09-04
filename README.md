@@ -12,9 +12,9 @@ Step 2: in terminal... rails db:create
 
 Step 3: in terminal... rails db:migrate
 
-Step 4: in terminal... rails db:seed 
+Step 3.5: add seed data if you want in db/seeds.rd
 
-Step 4.5: add seed data if you want in db/seeds.rd
+Step 4: in terminal... rails db:seed 
 
 Step 5: in terminal... rails s
 

@@ -20,5 +20,5 @@ Step 5: in terminal... rails s
 
 Step 5.5: ensure rails is running on... localhost:3000/
 
-Step 6: See you on the front end...
+Step 6: See you on the [front-end](https://github.com/JKofler93/contact-keeper-front-end) ...
 
